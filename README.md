@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uzeziogho
-- 👀 I’m interested in blockchain development, ecommerce, UI/UX designs and no-code
-- 🌱 I’m currently learning to build with no-code tools
-- 💞️ I’m looking to collaborate on IDIart, a NFT marketplace for african digital artist.
+- 👀 I’m interested in blockchain development, ecommerce, UI/UX designs and data science
+- 🌱 I’m currently building data tools
+- 💞️ I’m looking to learn and collaborate.
 - 📫 How to reach me o.u.enuku@outlook.com
 
 <!---
