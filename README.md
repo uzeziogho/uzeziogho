@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @uzeziogho
-- 👀 I’m interested in blockchain development, ecommerce, UI/UX designs and data science
+- 👋 Hi, My name is Ogho
+- 👀 I’m interested in data science, business analysis and business intelligence
 - 🌱 I’m currently building data tools
 - 💞️ I’m looking to learn and collaborate.
 - 📫 How to reach me o.u.enuku@outlook.com
