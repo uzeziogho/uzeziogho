@@ -24,7 +24,7 @@ My data science skillset includes:
 ## Contact Information
 If you have any questions, or collaboration opportunities, or would like to discuss a data science project, feel free to reach out to me:
 
-- Email: [your_email@example.com](mailto:enukuogho@gmail.com)
+- Email: [enukuogho@gmail.com](mailto:enukuogho@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/oghoenuku)
 
 Thank you for visiting my GitHub page! I hope you find my projects insightful and valuable in the world of data science.
