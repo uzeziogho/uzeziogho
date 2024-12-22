@@ -14,6 +14,8 @@ In this repository, you will find a collection of my data science projects. Each
 
 4. Data Analysis using PySpark: I have utilized pyspark as a tool to analyze clinical trial data. I also used Mapreduce to process big data before the analysis was done.
 
+5. Private Projects: A collaborative project with @GoldenDein
+
 ## Skills
 My data science skillset includes:
 - Programming languages: Python, R, SQL
